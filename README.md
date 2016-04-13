@@ -24,6 +24,8 @@ Herein lies a summary of OpenStreetMap, from my perspective, unavoidably includi
 
 **Development Seed** is a company that was previously joined with Mapbox that builds around open source and open data. Disclosure, I used to work there. Development Seed is often involved in the implementation of tools for the Red Cross and others.
 
+**Stamen** is a company that does projects similar to Development Seed as well as Knight Foundation projects, and has been involved in building OpenStreetMap-associated technology like Cascadenik.
+
 ## Informal groups
 
 **osmlab** is a GitHub organization that's an anarchic alternative to the OpenStreetMap organization, with liberal membership rules. It has no formal governance or topic, other than an association with OpenStreetMap.
