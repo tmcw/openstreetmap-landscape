@@ -18,7 +18,7 @@ Herein lies a summary of OpenStreetMap, from my perspective, unavoidably includi
 
 **CloudMade** was the first instance of building a company around OpenStreetMap: it included Steve Coast, the founder of OpenStreetMap, and they built specialized editors and services around OSM maps. The company eventually pivoted and no longer focuses on that kind of work.
 
-**Mapbox** is a current effort to build a company around Mapbox, open source, open data in general. Disclosure: I work there. Mapbox used Knight Foundation grants to build a redesign of osm.org and build iD, the default web editor for OpenStreetMap. It now uses its SaaS business to justify more work on OSM.
+**Mapbox** is a current effort to build a company around OpenStreetMap, open source, open data in general. Disclosure: I work there. Mapbox used Knight Foundation grants to build a redesign of osm.org and build iD, the default web editor for OpenStreetMap. It now uses its SaaS business to justify more work on OSM.
 
 **Maps.me** is a consumer application built around OpenStreetMap, based in Moscow. They develop an open-source rendering engine and an offline map application, that recently grew to include an OSM editor that has had early success boosting the popularity of editing OpenStreetMap.
 
