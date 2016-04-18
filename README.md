@@ -39,3 +39,15 @@ The OpenStreetMap website is written with Ruby on Rails. OpenStreetMap data is s
 There are many editors that connect to OpenStreetMap via its API, which is partially written in C++ for performance.
 
 OpenStreetMap provides many different kinds of data exports, through planet.openstreetmap.org as well as 'replication feeds' that allow other websites to create mirrors of its data in near realtime. Third parties build additional layers on top of these feeds to reprocess and extract different views of the data.
+
+## Buzzwords
+
+Armchair mapping is mapping places where you aren't - it is said in contrast to _surveying_, where you travel to the places you map. Armchair mapping is fueled by the availability of satellite imagery, street photos, historical, and government sources. It is almost necessary for large and sparse countries but limited in granularity since some details aren't visible from above.
+
+Imports are when large existing datasets are loaded into OpenStreetMap. The earliest edits were all by hand, and this human pace of addition often leads to fewer systematic errors. Imports have been helpful in getting large, sparse countries on the map, but are controversial for quality problems.
+
+## Countries
+
+UK: OpenStreetMap started in the UK with Steve Coast. It was motivated by the UK's government mapping service, Ordinance Survey: Ordinance Survey used taxes to map the country but sold the maps back to citizens. The map in the UK was seeded by taxi GPS traces and has been predominently built through survey, rather than armchair mapping.
+
+US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Ordinance Survey, America had an open and compatible data source called the TIGER/line dataset. This data was imported en masse to America, which led to a quick buildup in coverage, but the import had quality problems that took years to fix.
