@@ -50,6 +50,6 @@ Imports are when large existing datasets are loaded into OpenStreetMap. The earl
 
 ## Countries
 
-UK: OpenStreetMap started in the UK with Steve Coast. It was motivated by the UK's government mapping service, Ordinance Survey: Ordinance Survey used taxes to map the country but sold the maps back to citizens. The map in the UK was seeded by taxi GPS traces and has been predominently built through survey, rather than armchair mapping.
+UK: OpenStreetMap started in the UK with Steve Coast. It was motivated by the UK's government mapping service, Ordnance Survey: Ordnance Survey used taxes to map the country but sold the maps back to citizens. The map in the UK was seeded by taxi GPS traces and has been predominently built through survey, rather than armchair mapping.
 
-US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Ordinance Survey, America had an open and compatible data source called the TIGER/line dataset. This data was imported en masse to America, which led to a quick buildup in coverage, but the import had quality problems that took years to fix.
+US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Ordnance Survey, America had an open and compatible data source called the TIGER/line dataset. This data was imported en masse to America, which led to a quick buildup in coverage, but the import had quality problems that took years to fix.
