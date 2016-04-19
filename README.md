@@ -8,7 +8,7 @@ Herein lies a summary of OpenStreetMap, from my perspective, unavoidably includi
 
 ## Organizations
 
-**OpenStreetMap Foundation** The closest organization to OpenStreetMap is the OpenStreetMap Foundation, but it is relatively laissez-faire: the Foundation holds the trademark, manages 'working groups' and helps manage the membership. The Foundation does not directly support any software development.
+**OpenStreetMap Foundation** The closest organization to OpenStreetMap is the OpenStreetMap Foundation, but it is relatively laissez-faire: the Foundation holds the trademark and the database rights to the dataset, manages 'working groups' and helps manage the membership. The Foundation does not directly support any software development.
 
 **Humanitarian OpenStreetMap Team (HOT)** HOT was founded around the Haiti earthquake and represents one of the bastions of the humanitarian angle of OpenStreetMap. It's relatively well-run, as a 503c with a continuous board of directors. HOT also sponsors a great deal of software development in the service of its efforts. HOT is very interested in the "mapping party" idea, and mapping as a response to disasters.
 
@@ -47,6 +47,8 @@ OpenStreetMap provides many different kinds of data exports, through planet.open
 Armchair mapping is mapping places where you aren't - it is said in contrast to _surveying_, where you travel to the places you map. Armchair mapping is fueled by the availability of satellite imagery, street photos, historical, and government sources. It is almost necessary for large and sparse countries but limited in granularity since some details aren't visible from above.
 
 Imports are when large existing datasets are loaded into OpenStreetMap. The earliest edits were all by hand, and this human pace of addition often leads to fewer systematic errors. Imports have been helpful in getting large, sparse countries on the map, but are controversial for quality problems.
+
+ODbL is the license for OpenStreetMap data. It is an alternative to the conventional terms of copyright: instead of maintaining exclusive ownership, it mandates that data is shared. ODbL is the second license used by OpenStreetMap, after Creative Commons. When the project switched licenses, users needed to agree on the switch, and when some opted-out their data needed to be removed from the map.
 
 ## Countries
 
