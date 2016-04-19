@@ -26,7 +26,7 @@ Herein lies a summary of OpenStreetMap, from my perspective, unavoidably includi
 
 **Stamen** is a company that does projects similar to Development Seed as well as Knight Foundation projects, and has been involved in building OpenStreetMap-associated technology like Cascadenik.
 
-**Mapzen** is branded as an open-source mapping lab, and is a part of Samsung. It sponsors the development of several open source projects related to OpenStreetMap, like geocoding, rendering, and routing engines.
+**Mapzen** is an open-source mapping lab based out of the Samsung Accelerator. It sponsors the development of several open source projects related to OpenStreetMap, like geocoding, rendering, and routing engines.
 
 ## Informal groups
 
