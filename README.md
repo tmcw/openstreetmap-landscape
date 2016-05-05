@@ -44,14 +44,26 @@ OpenStreetMap provides many different kinds of data exports, through planet.open
 
 ## Buzzwords
 
-Armchair mapping is mapping places where you aren't - it is said in contrast to _surveying_, where you travel to the places you map. Armchair mapping is fueled by the availability of satellite imagery, street photos, historical, and government sources. It is almost necessary for large and sparse countries but limited in granularity since some details aren't visible from above.
+**Armchair mapping** is mapping places where you aren't - it is said in contrast to _surveying_, where you travel to the places you map. Armchair mapping is fueled by the availability of satellite imagery, street photos, historical, and government sources. It is almost necessary for large and sparse countries but limited in granularity since some details aren't visible from above.
 
-Imports are when large existing datasets are loaded into OpenStreetMap. The earliest edits were all by hand, and this human pace of addition often leads to fewer systematic errors. Imports have been helpful in getting large, sparse countries on the map, but are controversial for quality problems.
+**Imports** are when large existing datasets are loaded into OpenStreetMap. The earliest edits were all by hand, and this human pace of addition often leads to fewer systematic errors. Imports have been helpful in getting large, sparse countries on the map, but are controversial for quality problems.
 
-ODbL is the license for OpenStreetMap data. It is an alternative to the conventional terms of copyright: instead of maintaining exclusive ownership, it mandates that data is shared. ODbL is the second license used by OpenStreetMap, after Creative Commons. When the project switched licenses, users needed to agree on the switch, and when some opted-out their data needed to be removed from the map.
+**ODbL** is the license for OpenStreetMap data. It is an alternative to the conventional terms of copyright: instead of maintaining exclusive ownership, it mandates that data is shared. ODbL is the second license used by OpenStreetMap, after Creative Commons. When the project switched licenses, users needed to agree on the switch, and when some opted-out their data needed to be removed from the map.
 
 ## Countries
 
 UK: OpenStreetMap started in the UK with Steve Coast. It was motivated by the UK's government mapping service, Ordnance Survey: Ordnance Survey used taxes to map the country but sold the maps back to citizens. The map in the UK was seeded by taxi GPS traces and has been predominently built through survey, rather than armchair mapping.
 
 US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Ordnance Survey, America had an open and compatible data source called the TIGER/line dataset. This data was imported en masse to America, which led to a quick buildup in coverage, but the import had quality problems that took years to fix.
+
+## Places people hang out
+
+**[User Diaries](http://www.openstreetmap.org/diary)** are traditional blog-format posts built into OpenStreetMap itself. They're usually used for announcements or reports from mapping parties or other events.
+
+**[Mailing lists](https://lists.openstreetmap.org/listinfo)** are the oldest form of OpenStreetMap communication. Most popular is the `talk` list. Mailing lists have the highest level of pedantry of any form of communication.
+
+**[The OpenStreetMap Forum](http://forum.openstreetmap.org/)** is usually forgotten by English-language users of OpenStreetMap but is popular in other languages.
+
+**[IRC](http://wiki.openstreetmap.org/wiki/IRC)** is like the mailing lists - it features a lot of old-timers and a lot of snark - but is faster and less restrained.
+
+**[OpenStreetMap Help](https://help.openstreetmap.org/)** is similar to StackOverflow but only for OpenStreetMap. It's the best place to get questions answered.
