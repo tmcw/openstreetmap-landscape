@@ -67,3 +67,11 @@ US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Or
 **[IRC](http://wiki.openstreetmap.org/wiki/IRC)** is like the mailing lists - it features a lot of old-timers and a lot of snark - but is faster and less restrained.
 
 **[OpenStreetMap Help](https://help.openstreetmap.org/)** is similar to StackOverflow but only for OpenStreetMap. It's the best place to get questions answered.
+
+## Spinoffs and similar projects
+
+[FOSM](http://fosm.org/) is a fork of OpenStreetMap initiated by contributors who disagreed with the license change from CC-BY-SA to ODbL. Despite initial energy, FOSM is very low-traffic and nearly abandoned.
+
+[Wikimapia](http://wikimapia.org/#lang=en&lat=38.921300&lon=-77.038600&z=12&m=b) is a site similar to OpenStreetMap but sharing no common data or lineage. Unlike OpenStreetMap, Wikimapia encourages contributors to use Google Maps as a reference point, which puts it in a legally tenuous situation.
+
+[Google Mapmaker](https://www.google.com/mapmaker) is a community project run by Google with the interest of improving Google Maps. It allows both OpenStreetMap-style editing as well as suggestions and edits to places of interest.
