@@ -22,11 +22,13 @@ Herein lies a summary of OpenStreetMap, from my perspective, unavoidably includi
 
 **Maps.me** is a consumer application built around OpenStreetMap, based in Moscow. They develop an open-source rendering engine and an offline map application, that recently grew to include an OSM editor that has had early success boosting the popularity of editing OpenStreetMap.
 
-**Development Seed** is a company that was previously joined with Mapbox that builds around open source and open data. Disclosure, I used to work there. Development Seed is often involved in the implementation of tools for the Red Cross and others.
+**Development Seed** is a company that was previously joined with Mapbox that builds around open source and open data. Disclosure, I (tmcw) used to work there. Development Seed is often involved in the implementation of tools for the Red Cross and others.
 
 **Stamen** is a company that does projects similar to Development Seed as well as Knight Foundation projects, and has been involved in building OpenStreetMap-associated technology like Cascadenik.
 
 **Mapzen** is an open-source mapping lab based out of the Samsung Accelerator. It sponsors the development of several open source projects related to OpenStreetMap, like geocoding, rendering, and routing engines.
+
+**CARTO** is a company that provides services on top of OpenStreetMap data, focusing on visualization and also providing base maps. Before 2016, CARTO was known as CartoDB. CartoDB was spun out of Vizzuality, a web development shop.
 
 ## Informal groups
 
@@ -65,6 +67,8 @@ US: OpenStreetMap in the US had a large event of the TIGER import. Unlike the Or
 **[The OpenStreetMap Forum](http://forum.openstreetmap.org/)** is usually forgotten by English-language users of OpenStreetMap but is popular in other languages.
 
 **[IRC](http://wiki.openstreetmap.org/wiki/IRC)** is like the mailing lists - it features a lot of old-timers and a lot of snark - but is faster and less restrained.
+
+**[OSM US Slack](https://osmus-slack.herokuapp.com/)** is a set of Slack channels intended for use by the OpenStreetMap US chapter.
 
 **[OpenStreetMap Help](https://help.openstreetmap.org/)** is similar to StackOverflow but only for OpenStreetMap. It's the best place to get questions answered.
 
